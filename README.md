@@ -1,47 +1,63 @@
-# Hi there, I'm TAMILARASAN S 👋
-**Full-Stack Web Developer | AI & ML Engineer ** 
-    Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
+# 💫 About Me
+## Hi there, I'm TAMILARASAN S 👋
+**Full-Stack Web Developer | AI & ML Engineer**
+
+Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1288063770240876588) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilarasansdeveloper/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/parallel_Glitch/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamilarasanss.dev@gmail.com) 
+### 🌐 Socials
+<p align="left">
+<a href="https://discord.gg/1288063770240876588" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tamilarasansdeveloper/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://reddit.com/user/parallel_Glitch/" target="blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
+<a href="mailto:tamilarasanss.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📊 GitHub Analysis
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=false&layout=compact" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false" width="100%" />
+</p>
 
 ---
 
-###  Skills & Technologies
+### 🛠️ Skills & Technologies
 
 #### **Programming & Web Development**
-[![My Skills](https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-#### **Tools**
-[![My Tools](https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi)](https://skillicons.dev)
-
----
-
-###  Featured Projects
-
-* **Smart Wildlife Intrusion Alert System**: Real-time detection using TinyML and ESP32-CAM. Technologies include Python, OpenCV, and YOLO.
-* **AI Snake Identification System**: Mobile application for identifying snake species via camera scanning. Built with Flutter, OpenCV, and FastAPI.
-* **Blockchain Portfolio Analytics**: Zoho Cliq chatbot for real-time crypto valuations using GoldRush and CoinGecko APIs.
-* **Fitness Buddy (GymBuddy)**: Full-stack health platform with personalized workout tracking and AI health suggestions.
+#### **Tools & AI Frameworks**
+[![My Tools](https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Professional Experience
-* **IBM SkillBuild Virtual Intern (AI/Cloud)**: Built cloud-integrated AI apps focusing on IBM Watson Assistant and NLP.
-* **TATA Forage Virtual Intern (Data Analytics)**: Conducted performance analysis on GenAI-driven business models and data visualization.
+### 🚀 Featured Projects
+
+* 🦌 **Smart Wildlife Intrusion Alert System**: Real-time detection using TinyML and ESP32-CAM (Python, OpenCV, YOLO).
+* 🐍 **AI Snake Identification System**: Flutter mobile app for identifying snake species via camera scanning and FastAPI.
+* ⛓️ **Blockchain Portfolio Analytics**: Zoho Cliq chatbot for real-time crypto valuations via GoldRush/CoinGecko APIs.
+* 🏋️ **Fitness Buddy (GymBuddy)**: Full-stack health platform with workout tracking and AI health suggestions.
 
 ---
 
-### Certifications
+### 🏢 Professional Experience
+* **IBM SkillBuild Virtual Intern (AI/Cloud)**: Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.
+* **TATA Forage Virtual Intern (Data Analytics)**: Conducted performance analysis and data visualization on GenAI business models.
+
+---
+
+### 📜 Certifications
 * **Artificial Intelligence Professional** — Intellipaat
 * **Generative AI Foundations** — UpGrad
 * **Python (HCL & Google)** — GUVI
@@ -49,23 +65,5 @@
 
 ---
 
-### 📬 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/tamilarasansdeveloper](https://linkedin.com/in/tamilarasansdeveloper)
-- 📧 **Email:** [tamilarasanss.dev@gmail.com](mailto:tamilarasanss.dev@gmail.com)
-- 🎓 **Expected Graduation:** 2026
-
-
-<!--
-**tamilarasangithub/tamilarasangithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contact Me
+- 💼 **LinkedIn:**
