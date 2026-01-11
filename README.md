@@ -1,11 +1,18 @@
 # Hi there, I'm TAMILARASAN S 👋
-**Full-Stack Web Developer | AI & ML Engineer | Data Analyst** 
+**Full-Stack Web Developer | AI & ML Engineer ** 
     Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
 
 ---
 
-###  GitHub Activity
-[![Tamilarasan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true)](https://github.com/tamilarasangithub)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1288063770240876588) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilarasansdeveloper/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/parallel_Glitch/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamilarasanss.dev@gmail.com) 
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
