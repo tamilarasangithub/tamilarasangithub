@@ -1,12 +1,11 @@
-# 💫 About Me
 ## Hi there, I'm TAMILARASAN S 👋
-**Full-Stack Web Developer | AI & ML Engineer**
+**Web Developer | AI & ML Engineer **
 
 Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
 
 ---
 
-### 🌐 Socials
+###  Socials
 <p align="left">
 <a href="https://discord.gg/1288063770240876588" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,7 +15,7 @@ Highly motivated Computer Science Engineer specializing in developing responsive
 
 ---
 
-### 📊 GitHub Analysis
+###  GitHub Analysis
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true" width="100%" />
 </p>
@@ -32,7 +31,7 @@ Highly motivated Computer Science Engineer specializing in developing responsive
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 #### **Programming & Web Development**
 [![My Skills](https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark)](https://skillicons.dev)
@@ -42,22 +41,22 @@ Highly motivated Computer Science Engineer specializing in developing responsive
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-* 🦌 **Smart Wildlife Intrusion Alert System**: Real-time detection using TinyML and ESP32-CAM (Python, OpenCV, YOLO).
-* 🐍 **AI Snake Identification System**: Flutter mobile app for identifying snake species via camera scanning and FastAPI.
-* ⛓️ **Blockchain Portfolio Analytics**: Zoho Cliq chatbot for real-time crypto valuations via GoldRush/CoinGecko APIs.
-* 🏋️ **Fitness Buddy (GymBuddy)**: Full-stack health platform with workout tracking and AI health suggestions.
+*  **Smart Wildlife Intrusion Alert System**: Real-time detection using TinyML and ESP32-CAM (Python, OpenCV, YOLO).
+*  **AI Snake Identification System**: Flutter mobile app for identifying snake species via camera scanning and FastAPI.
+*  **Blockchain Portfolio Analytics**: Zoho Cliq chatbot for real-time crypto valuations via GoldRush/CoinGecko APIs.
+*  **Fitness Buddy (GymBuddy)**: Full-stack health platform with workout tracking and AI health suggestions.
 
 ---
 
-### 🏢 Professional Experience
+###  Professional Experience
 * **IBM SkillBuild Virtual Intern (AI/Cloud)**: Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.
 * **TATA Forage Virtual Intern (Data Analytics)**: Conducted performance analysis and data visualization on GenAI business models.
 
 ---
 
-### 📜 Certifications
+###  Certifications
 * **Artificial Intelligence Professional** — Intellipaat
 * **Generative AI Foundations** — UpGrad
 * **Python (HCL & Google)** — GUVI
@@ -65,7 +64,7 @@ Highly motivated Computer Science Engineer specializing in developing responsive
 
 ---
 
-### 📬 Contact Me
-- 💼 **LinkedIn:** [linkedin.com/in/tamilarasansdeveloper](https://linkedin.com/in/tamilarasansdeveloper)
-- 📧 **Email:** [tamilarasanss.dev@gmail.com](mailto:tamilarasanss.dev@gmail.com)
-- 🎓 **Expected Graduation:** 2026
+###  Contact Me
+-  **LinkedIn:** [linkedin.com/in/tamilarasansdeveloper](https://linkedin.com/in/tamilarasansdeveloper)
+-  **Email:** [tamilarasanss.dev@gmail.com](mailto:tamilarasanss.dev@gmail.com)
+
