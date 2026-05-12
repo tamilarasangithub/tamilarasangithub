@@ -1,5 +1,5 @@
 ## Hi there, I'm TAMILARASAN S 👋
-**Web Developer | AI & ML Engineer **
+Web Developer | AI & ML Engineer
 
 Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
 
@@ -67,4 +67,4 @@ Highly motivated Computer Science Engineer specializing in developing responsive
 ###  Contact Me
 -  **LinkedIn:** [linkedin.com/in/tamilarasansdeveloper](https://linkedin.com/in/tamilarasansdeveloper)
 -  **Email:** [tamilarasanss.dev@gmail.com](mailto:tamilarasanss.dev@gmail.com)
-
+MADE  ❤️ FROM TAMILARASAN
