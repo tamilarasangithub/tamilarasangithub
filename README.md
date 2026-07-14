@@ -59,6 +59,11 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false" width="100%" alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
 
 ---
 
