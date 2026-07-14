@@ -44,6 +44,26 @@ Highly motivated Computer Science Engineer specializing in developing responsive
   <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false" width="100%" alt="GitHub Streak Stats" />
 </p>
 
+<!-- Updated stable LeetCode Card -->
+<p align="center">
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Inter&ext=activity" width="400px" alt="LeetCode Stats" />
+  </a>
+</p>### 📊 GitHub & Coding Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=false&layout=compact" height="180px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false" width="100%" alt="GitHub Streak Stats" />
+</p>
+
 <p align="center">
   <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
     <img src="https://leetcode-stats-black.vercel.app/api?username=tamilarasangithub&theme=dark" height="160px" alt="LeetCode Stats" />
