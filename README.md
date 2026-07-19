@@ -1,132 +1,113 @@
-<!-- EXTREME UI GITHUB PROFILE -->
 <div align="center">
-  <!-- Dynamic Gradient Header with Twinkling Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,12,18&height=280&section=header&text=TAMILARASAN%20S&fontSize=70&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
-</div>
 
-<div align="center">
-  <!-- Animated Typing Text with Cyan/Purple Theme -->
-  <a href="https://github.com/tamilarasangithub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FBFF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Bridging+Complex+Data+%26+User-Centric+UI;%F0%9F%94%A5+Building+AI-driven+Automations;%F0%9F%9A%80+Full-Stack+Web+Development+%26+Data+Analytics" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Animated Header Section -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=9900FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+TAMILARASAN+S+👋;Web+Developer+|+AI+%26+ML+Engineer;Bridging+Data+%26+User+Interfaces;Building+AI-driven+Automations" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<div align="center">
-  <!-- Glowing Social Badges -->
-  <a href="https://linkedin.com/in/tamilarasansdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0D0714?style=for-the-badge&logo=linkedin&logoColor=00FBFF" alt="LinkedIn" /></a>
-  <a href="mailto:tamilarasanss.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0D0714?style=for-the-badge&logo=gmail&logoColor=9900FF" alt="Email" /></a>
-  <a href="https://leetcode.com/u/tamilarasangithub/"><img src="https://img.shields.io/badge/LeetCode-0D0714?style=for-the-badge&logo=LeetCode&logoColor=00FBFF" alt="LeetCode Profile" /></a>
-  <a href="https://discord.gg/1288063770240876588"><img src="https://img.shields.io/badge/Discord-0D0714?style=for-the-badge&logo=discord&logoColor=9900FF" alt="Discord" /></a>
-</div>
+*Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics.*
 
-<br>
-<hr style="border: 1px solid #9900FF; opacity: 0.2;" />
-<br>
+---
 
-<h3 align="center">🔮 ARCHITECTURE & TECH STACK</h3>
+## 🌌 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark&perline=7" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi&theme=dark&perline=5" />
-</div>
-
-<br>
-<hr style="border: 1px solid #9900FF; opacity: 0.2;" />
-<br>
-
-<h3 align="center">📡 GITHUB TELEMETRY</h3>
-
-<div align="center">
-  <!-- 100% width activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0D0714&color=00FBFF&line=9900FF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&bg_color=0D0714&title_color=00FBFF&text_color=a99ec0&icon_color=9900FF&hide_border=true&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&bg_color=0D0714&title_color=9900FF&text_color=a99ec0&hide_border=true&layout=compact" height="195" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=dark&background=0D0714&border=0D0714&stroke=9900FF&ring=00FBFF&fire=9900FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=a99ec0&sideLabels=a99ec0&dates=a99ec0&hide_border=true" height="195" />
-</div>
-
-<br>
-<hr style="border: 1px solid #9900FF; opacity: 0.2;" />
-<br>
-
-<h3 align="center">🚀 FLAGSHIP PROJECTS</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🦊 Smart Wildlife Intrusion Alert System</h4>
-        <p>Real-time edge detection system for monitoring wildlife anomalies.</p>
-        <img src="https://img.shields.io/badge/TinyML-0D0714?style=flat-square&logoColor=00FBFF&color=9900FF" />
-        <img src="https://img.shields.io/badge/ESP32--CAM-0D0714?style=flat-square&logoColor=00FBFF&color=9900FF" />
-        <img src="https://img.shields.io/badge/YOLO-0D0714?style=flat-square&logoColor=00FBFF&color=9900FF" />
-      </td>
-      <td align="center" width="50%">
-        <h4>🐍 AI Snake Identification System</h4>
-        <p>Mobile application built to analyze and identify specific species via camera input.</p>
-        <img src="https://img.shields.io/badge/Flutter-0D0714?style=flat-square&logoColor=00FBFF&color=00FBFF" />
-        <img src="https://img.shields.io/badge/FastAPI-0D0714?style=flat-square&logoColor=00FBFF&color=00FBFF" />
-        <img src="https://img.shields.io/badge/Python-0D0714?style=flat-square&logoColor=00FBFF&color=00FBFF" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h4>⛓️ Blockchain Portfolio Analytics</h4>
-        <p>Enterprise chatbot providing instant valuations and real-time market data insights.</p>
-        <img src="https://img.shields.io/badge/Zoho_Cliq-0D0714?style=flat-square&logoColor=00FBFF&color=9900FF" />
-        <img src="https://img.shields.io/badge/CoinGecko-0D0714?style=flat-square&logoColor=00FBFF&color=9900FF" />
-      </td>
-      <td align="center" width="50%">
-        <h4>💪 Fitness Buddy (GymBuddy)</h4>
-        <p>Full-stack performance optimization engine with personalized algorithmic feedback.</p>
-        <img src="https://img.shields.io/badge/React-0D0714?style=flat-square&logoColor=00FBFF&color=00FBFF" />
-        <img src="https://img.shields.io/badge/Node.js-0D0714?style=flat-square&logoColor=00FBFF&color=00FBFF" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<hr style="border: 1px solid #9900FF; opacity: 0.2;" />
-<br>
-
-<h3 align="center">💼 EXPERIENCE & CERTIFICATIONS</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h4 align="center">👨‍💻 Professional Experience</h4>
-        <ul>
-          <li><b>IBM SkillBuild Virtual Intern (AI/Cloud)</b><br>Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.</li>
-          <br>
-          <li><b>TATA Forage Virtual Intern (Data Analytics)</b><br>Conducted performance analysis and data visualization on GenAI business models.</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h4 align="center">🎓 Certifications</h4>
-        <ul>
-          <li><b>Artificial Intelligence Professional</b> — <i>Intellipaat</i></li>
-          <li><b>Generative AI Foundations</b> — <i>UpGrad</i></li>
-          <li><b>Python (HCL & Google)</b> — <i>GUVI</i></li>
-          <li><b>Journey to Cloud</b> — <i>IBM SkillsBuild</i></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,7,2&height=100&section=footer" width="100%" />
-</div>
 <p align="center">
-  Made with 💜 by <a href="https://linkedin.com/in/tamilarasansdeveloper/"><b>TAMILARASAN</b></a>
+  <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-050505.svg?style=for-the-badge&logo=linkedin&logoColor=9900ff" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tamilarasanss.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=9900ff" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=LeetCode&logoColor=9900ff" alt="LeetCode Profile" />
+  </a>
+  <a href="https://discord.gg/1288063770240876588" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-050505.svg?style=for-the-badge&logo=discord&logoColor=9900ff" alt="Discord" />
+  </a>
+  <a href="https://reddit.com/user/parallel_Glitch/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-050505.svg?style=for-the-badge&logo=Reddit&logoColor=9900ff" alt="Reddit" />
+  </a>
 </p>
+
+---
+
+## 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+
+### 💻 **Core Programming & Web Development**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark" alt="Languages and Web Dev Tools" />
+  </a>
+</p>
+
+### 🤖 **AI Frameworks, Hardware & DevOps**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi&theme=dark" alt="AI and Development Tools" />
+  </a>
+</p>
+
+---
+
+## 📊 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 & 𝐂𝐨𝐝𝐢𝐧𝐠 𝐌𝐞𝐭𝐫𝐢𝐜𝐬
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=050505&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&bg_color=050505&title_color=9900ff&text_color=ffffff&icon_color=00fbff&show_icons=true&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&bg_color=050505&title_color=9900ff&text_color=ffffff&hide_border=true&layout=compact" height="180px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&background=050505&border=050505&stroke=9900ff&ring=9900ff&fire=00fbff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9900ff&sideLabels=ffffff&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Inter&ext=activity&bg=050505" width="400px" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Smart Wildlife Intrusion Alert System** | Real-time edge detection system for monitoring wildlife anomalies. | *TinyML, ESP32-CAM, OpenCV, YOLO* |
+| **AI Snake Identification System** | Mobile application built to quickly analyze and identify specific species via camera input. | *Flutter, FastAPI, Python* |
+| **Blockchain Portfolio Analytics** | Enterprise chatbot providing instant valuations and real-time market data insights. | *Zoho Cliq, GoldRush API, CoinGecko API* |
+| **Fitness Buddy (GymBuddy)** | Full-stack performance optimization engine with personalized algorithmic feedback. | *React, Node.js, AI Core* |
+
+---
+
+## 💼 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬
+
+<div align="left">
+
+### 🏢 **Professional Experience**
+* 🟣 **IBM SkillBuild Virtual Intern (AI/Cloud)** — *Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.*
+* 🟣 **TATA Forage Virtual Intern (Data Analytics)** — *Conducted performance analysis and data visualization on GenAI business models.*
+
+### 📜 **Certifications**
+* 🎓 **Artificial Intelligence Professional** — *Intellipaat*
+* 🧠 **Generative AI Foundations** — *UpGrad*
+* 🐍 **Python (HCL & Google)** — *GUVI*
+* ☁️ **Journey to Cloud** — *IBM SkillsBuild*
+
+</div>
+
+<br>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9900ff&height=100&section=footer" width="100%"/>
+
+<p align="center">
+  <b>Crafted with <font color="#9900ff">♥</font> by <a href="https://linkedin.com/in/tamilarasansdeveloper/">TAMILARASAN S</a></b>
+</p>
+
+</div>
