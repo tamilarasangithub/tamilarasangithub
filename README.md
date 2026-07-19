@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=200&section=header&text=TAMILARASAN%20S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=65&descSize=22" width="100%" />
+<!-- Animated Cyberpunk Header (Fixed) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=200&section=header&text=TAMILARASAN%20S&fontSize=60&fontColor=ffffff&desc=Web%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=70&descSize=20" width="100%" />
 
 <br><br>
 
-<!-- Animated Typing Effect -->
+<!-- Animated Typing Effect (Fixed Emojis & Spacing) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe+🚀;Building+AI-driven+Automations+🤖;Transforming+Data+into+Interfaces+💻;I+Code+in+Midnight+Purple+💜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome%20to%20my%20Digital%20Universe;Building%20AI-driven%20Automations;Transforming%20Data%20into%20Interfaces;I%20Code%20in%20Midnight%20Purple" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -17,19 +17,19 @@
 
 <br>
 
-<!-- GitHub Trophies (Gamification) -->
+<!-- GitHub Trophies (Fixed Parameters) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamilarasangithub&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="tamilarasangithub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tamilarasangithub&theme=radical&no-frame=true&no-bg=true" alt="tamilarasangithub" />
 </a>
 
 <br><br>
 
 ## 🌐 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄_
 <p align="center">
-  <a href="https://linkedin.com/in/tamilarasansdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&borderColor=9900FF" alt="LinkedIn" /></a>
-  <a href="mailto:tamilarasanss.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF&borderColor=9900FF" alt="Email" /></a>
-  <a href="https://leetcode.com/u/tamilarasangithub/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=00FFFF&borderColor=9900FF" alt="LeetCode" /></a>
-  <a href="https://discord.gg/1288063770240876588"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FFFF&borderColor=9900FF" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/tamilarasansdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
+  <a href="mailto:tamilarasanss.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email" /></a>
+  <a href="https://leetcode.com/u/tamilarasangithub/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=00FFFF" alt="LeetCode" /></a>
+  <a href="https://discord.gg/1288063770240876588"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FFFF" alt="Discord" /></a>
 </p>
 
 <!-- Animated Glowing Line Divider -->
@@ -64,10 +64,10 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=radical&bg_color=000000&title_color=9900FF&text_color=ffffff&icon_color=00FFFF&border_color=9900FF&show_icons=true&hide_border=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=radical&bg_color=000000&title_color=9900FF&text_color=ffffff&icon_color=00FFFF&show_icons=true&hide_border=false" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=radical&bg_color=000000&title_color=9900FF&text_color=ffffff&border_color=9900FF&hide_border=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=radical&bg_color=000000&title_color=9900FF&text_color=ffffff&hide_border=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
