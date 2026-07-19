@@ -1,98 +1,100 @@
-<div align="center">
+# Hi there, I'm TAMILARASAN S 👋
+### Web Developer | AI & ML Engineer
 
-<!-- Main Animated Header (Super Stable Typing Effect) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=Welcome%20to%20my%20Digital%20Universe;Web%20Developer%20%7C%20AI%20%26%20ML%20Engineer;I%20Code%20in%20Midnight%20Purple" alt="Typing SVG" />
-</a>
+> Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
 
-<br>
+---
 
-<!-- Animated Glowing Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+## 🌐 Connect With Me
 
-<br>
-
-## 🌐 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄_
-<p align="center">
-  <a href="https://linkedin.com/in/tamilarasansdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
-  <a href="mailto:tamilarasanss.dev@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email" /></a>
-  <a href="https://leetcode.com/u/tamilarasangithub/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=LeetCode&logoColor=00FFFF" alt="LeetCode" /></a>
-  <a href="https://discord.gg/1288063770240876588"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=00FFFF" alt="Discord" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tamilarasanss.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://discord.gg/1288063770240876588" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://reddit.com/user/parallel_Glitch/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" />
+  </a>
 </p>
 
-<!-- Animated Glowing Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 🛠️ 𝐓𝐄𝐂𝐇 𝐀𝐑𝐒𝐄𝐍𝐀𝐋_
+## 🛠️ Tools & Technologies
 
-<br>
-
-### ⚙️ Backend & AI Hardware
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,nodejs,django,fastapi,pytorch,opencv,arduino&theme=dark" alt="Backend and AI" />
-  </a>
+### **Core Programming & Web Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark" alt="Languages and Web Dev Tools" />
+  </a>
 </p>
 
-### 💻 Frontend & Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,dart,react,tailwind,html,css,firebase,postgres,mongodb&theme=dark" alt="Frontend and DB" />
-  </a>
+### **AI Frameworks, Hardware & DevOps**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi&theme=dark" alt="AI and Development Tools" />
+  </a>
 </p>
 
-<!-- Animated Glowing Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 📊 𝐏𝐄𝐑𝐅𝐎𝐑𝐌𝐀𝐍𝐂𝐄 𝐌𝐄𝐓𝐑𝐈𝐂𝐒_
+## 📊 Analytics & Coding Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=dracula&show_icons=true&hide_border=true&count_private=true&v=1" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=dracula&hide_border=true&layout=compact&v=1" height="190" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=000000&color=9900FF&line=9900FF&point=00FFFF&area=true&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=false&layout=compact" height="180px" alt="Top Languages" />
 </p>
 
-<!-- Animated Glowing Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false" width="100%" alt="GitHub Streak Stats" />
+</p>
+<!-- Updated stable LeetCode Card -->
+<p align="center">
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Inter&ext=activity" width="400px" alt="LeetCode Stats" />
+  </a>
+</p>
 
-## 🚀 𝐄𝐋𝐈𝐓𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒_
+---
 
-| 💡 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 | 📝 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 | ⚙️ 𝐒𝐭𝐚𝐜𝐤 |
+## 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Smart Wildlife Alert System** | Real-time edge detection system for monitoring wildlife anomalies. | 🟣 `TinyML` `OpenCV` `YOLO` |
-| **AI Snake Identification** | Mobile application built to analyze and identify species via camera. | 🟣 `Flutter` `FastAPI` `Python` |
-| **Blockchain Analytics** | Enterprise chatbot providing instant valuations and market insights. | 🟣 `Zoho Cliq` `CoinGecko` |
-| **GymBuddy Engine** | Full-stack performance optimization engine with personalized feedback. | 🟣 `React` `Node.js` `AI Core` |
+| **Smart Wildlife Intrusion Alert System** | Real-time edge detection system for monitoring wildlife anomalies. | TinyML, ESP32-CAM, Python, OpenCV, YOLO |
+| **AI Snake Identification System** | Mobile application built to quickly analyze and identify specific species via camera input. | Flutter, FastAPI, Python |
+| **Blockchain Portfolio Analytics** | Enterprise chatbot providing instant valuations and real-time market data insights. | Zoho Cliq, GoldRush API, CoinGecko API |
+| **Fitness Buddy (GymBuddy)** | Full-stack performance optimization engine with personalized algorithmic feedback. | React, Node.js, AI Core |
 
-<!-- Animated Glowing Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 💼 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 & 𝐂𝐄𝐑𝐓𝐒_
+## 💼 Experience & Achievements
 
-<div align="left">
+### **Professional Experience**
+* **IBM SkillBuild Virtual Intern (AI/Cloud)**
+  * Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.
+* **TATA Forage Virtual Intern (Data Analytics)**
+  * Conducted performance analysis and data visualization on GenAI business models.
 
-### 🏢 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
-* 🟣 **IBM SkillBuild (AI/Cloud)** — *Cloud-integrated AI apps (Watson & NLP).*
-* 🟣 **TATA Forage (Data Analytics)** — *GenAI performance analysis & visualization.*
+### **Certifications**
+* 🎓 **Artificial Intelligence Professional** — *Intellipaat*
+* 🧠 **Generative AI Foundations** — *UpGrad*
+* 🐍 **Python (HCL & Google)** — *GUVI*
+* ☁️ **Journey to Cloud** — *IBM SkillsBuild*
 
-### 📜 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
-* 🎓 **AI Professional** — *Intellipaat*
-* 🧠 **GenAI Foundations** — *UpGrad*
-* 🐍 **Python** — *GUVI (HCL & Google)*
-
-</div>
-
-<br>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9900FF&height=100&section=footer" width="100%" />
+---
 
 <p align="center">
-  <b>System Code:</b> <code>[ 100% SECURE ]</code> <br>
-  <i>Forged with <font color="#00FFFF">Neon</font> & <font color="#9900FF">Code</font> by <b>TAMILARASAN S</b></i>
+  Made with ❤️ by <a href="https://linkedin.com/in/tamilarasansdeveloper/">TAMILARASAN</a>
 </p>
-
-</div>
