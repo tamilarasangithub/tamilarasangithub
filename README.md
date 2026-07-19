@@ -1,178 +1,466 @@
-<!-- Main Container - Overall Page Structure with Modern Font and Border -->
-<div style="background-color: #0D1117; color: #C9D1D9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; border-radius: 10px;">
-
-<!-- Header Section - Replacing the wave with an extreme dynamic banner and photo -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rect&text1=TAMILARASAN%20S&text2=WEB%20DEVELOPER%20%7C%20AI%20&%20ML%20ENGINEER&height=250&width=100%25&bgColor=0D1117&fontColor1=00FBFF&fontColor2=FF00FF&text1Size=50&text2Size=25&text1Y=40&text2Y=65&animation=typing" width="100%" alt="Header Banner"/>
-</p>
-<div align="center">
-  <img src="https://octodex.github.com/images/codercat.jpg" width="150" alt="Avatar" style="border-radius: 50%; border: 5px solid #FF00FF; box-shadow: 0 0 10px rgba(255, 0, 255, 0.7);"/>
-</div>
-
-<br/>
-
-<!-- About Me Section with Modern Design and Decorative Separator -->
-<div style="text-align: center; border: 1px solid #FF00FF; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(255, 0, 255, 0.5);">
-  <h2 style="color: #00FBFF; display: flex; align-items: center; justify-content: center;">
-    👨‍💻 About Me
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=30&section=header&hide_border=true&reversal=true" width="100%"/>
-  <p style="font-size: 1.1em; line-height: 1.6;">
-    <em>Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.</em>
-  </p>
-</div>
-
-<br/>
-
-<!-- Modern Contact Console / Connect Section with Button Effects -->
-<div align="center" style="background-color: #161B22; padding: 15px; border-radius: 8px;">
-  <h3 style="color: #00FBFF; margin-top: 0;">🌐 Connect With Me</h3>
-  
-  <p>
-    <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:tamilarasanss.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
-    </a>
-    &nbsp;
-    <a href="https://discord.gg/1288063770240876588" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    &nbsp;
-    <a href="https://reddit.com/user/parallel_Glitch/" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" />
-    </a>
-  </p>
-</div>
-
-<br/>
-
-<!-- Tech Stack with Custom Layout and Animated Title -->
-<div style="background-color: #161B22; padding: 15px; border-radius: 8px;">
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&lines=🛠️+Tech+Stack;🚀+Skills;🤖+Core+Technologies" alt="Skills Typing SVG"/>
-  </div>
-  
-  <div align="center">
-    <h3 style="color: #00FBFF;">Core Programming & Web Development</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark" alt="Languages and Web Dev Tools" />
-    </a>
-  </div>
-
-  <div align="center">
-    <h3 style="color: #00FBFF;">AI Frameworks, Hardware & DevOps</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi&theme=dark" alt="AI and Development Tools" />
-    </a>
-  </div>
-</div>
-
-<br/>
-
-<!-- Dynamic Analytics & Statistics - Re-colored -->
-<div style="background-color: #161B22; padding: 15px; border-radius: 8px;">
-  <h2 style="color: #00FBFF; text-align: center;">📊 Analytics & Metrics</h2>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=161B22&color=00FBFF&line=FF00FF&point=FF00FF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&bg_color=161B22&title_color=00FBFF&text_color=C9D1D9&icon_color=FF00FF&show_icons=true&hide_border=false&count_private=true" height="180px" alt="GitHub Stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&bg_color=161B22&title_color=00FBFF&text_color=C9D1D9&hide_border=false&layout=compact" height="180px" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&background=161B22&stroke=00FBFF&ring=FF00FF&fire=FF00FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FBFF&sideLabels=00FBFF&dates=C9D1D9&hide_border=false" width="100%" alt="GitHub Streak Stats" />
-  </p>
-
-  <p align="center">
-    <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Inter&ext=activity" width="400px" alt="LeetCode Stats" />
-    </a>
-  </p>
-</div>
-
-<br/>
-
-<!-- Projects Re-designed into modern cards with icons and shadow -->
-<div style="background-color: #161B22; padding: 15px; border-radius: 8px;">
-  <h2 style="color: #00FBFF; text-align: center;">🚀 Featured Projects</h2>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamilarasan S | Web Developer & AI Engineer</title>
+    <!-- Modern Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- Project 1 -->
-    <div style="border: 1px solid #FF00FF; padding: 15px; border-radius: 8px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(255, 0, 255, 0.3);">
-      <h3 style="color: #00FBFF; display: flex; align-items: center;"><img src="https://skillicons.dev/icons?i=python" width="20"/>&nbsp;🦌 Smart Wildlife Intrusion Alert System</h3>
-      <p>Real-time edge detection system for monitoring wildlife anomalies.</p>
-      <p><strong>Tech Stack:</strong> TinyML, ESP32-CAM, Python, OpenCV, YOLO</p>
+    <style>
+        :root {
+            --bg-color: #0b0514;
+            --primary: #9900ff;
+            --primary-glow: #b24bff;
+            --secondary: #00fbff;
+            --text-main: #ffffff;
+            --text-muted: #a99ec0;
+            --card-bg: rgba(25, 15, 45, 0.4);
+            --border: rgba(153, 0, 255, 0.2);
+            --border-hover: rgba(0, 251, 255, 0.5);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        /* Ambient Background Orbs */
+        .ambient-light {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(120px);
+            z-index: -1;
+            animation: float 12s infinite alternate ease-in-out;
+        }
+        .light-1 { width: 400px; height: 400px; background: rgba(153, 0, 255, 0.25); top: -100px; left: -100px; }
+        .light-2 { width: 350px; height: 350px; background: rgba(0, 251, 255, 0.15); bottom: -50px; right: -50px; animation-delay: -5s; }
+        .light-3 { width: 500px; height: 500px; background: rgba(178, 75, 255, 0.15); top: 40%; left: 30%; animation-duration: 18s; }
+
+        @keyframes float {
+            0% { transform: translate(0, 0) scale(1); }
+            100% { transform: translate(50px, 50px) scale(1.1); }
+        }
+
+        /* Container & Layout */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        section {
+            margin-bottom: 6rem;
+        }
+
+        /* Typography & Gradients */
+        h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+            line-height: 1.1;
+        }
+        h2 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            display: inline-block;
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 0.5rem;
+        }
+        .gradient-text {
+            background: linear-gradient(90deg, var(--secondary), var(--primary), var(--primary-glow));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% auto;
+            animation: shine 4s linear infinite;
+        }
+        @keyframes shine {
+            to { background-position: 200% center; }
+        }
+        
+        .subtitle {
+            font-size: 1.5rem;
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+            font-weight: 400;
+        }
+        .bio {
+            font-size: 1.2rem;
+            max-width: 800px;
+            color: var(--text-muted);
+            margin-bottom: 2.5rem;
+            border-left: 4px solid var(--primary);
+            padding-left: 1.5rem;
+        }
+
+        /* Glassmorphism Cards */
+        .glass-card {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 2rem;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        .glass-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: -150%; width: 50%; height: 100%;
+            background: linear-gradient(to right, transparent, rgba(255,255,255,0.08), transparent);
+            transform: skewX(-25deg);
+            transition: all 0.7s ease;
+        }
+        .glass-card:hover::before {
+            left: 150%;
+        }
+        .glass-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--border-hover);
+            box-shadow: 0 15px 40px rgba(153, 0, 255, 0.3), 0 0 20px rgba(0, 251, 255, 0.15);
+        }
+
+        /* Social Buttons */
+        .social-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 3rem;
+        }
+        .glass-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.8rem;
+            text-decoration: none;
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border);
+            padding: 0.8rem 1.5rem;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        .glass-btn i {
+            font-size: 1.2rem;
+        }
+        .glass-btn:hover {
+            background: var(--primary);
+            border-color: var(--secondary);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(153, 0, 255, 0.4);
+            color: white;
+        }
+
+        /* Tool Images Container */
+        .tools-img-wrapper {
+            background: rgba(0,0,0,0.3);
+            border-radius: 15px;
+            padding: 1.5rem;
+            display: inline-block;
+            margin-bottom: 1.5rem;
+            border: 1px solid var(--border);
+            width: 100%;
+            text-align: center;
+        }
+        .tools-img-wrapper img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Grids */
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .stats-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            align-items: center;
+        }
+        .stats-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1.5rem;
+            width: 100%;
+        }
+        .stat-img {
+            max-width: 100%;
+            border-radius: 12px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        }
+        .stat-img:hover {
+            transform: scale(1.03);
+            box-shadow: 0 10px 25px rgba(153, 0, 255, 0.4);
+        }
+
+        /* Tags */
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1.5rem;
+        }
+        .tags span {
+            background: rgba(0, 251, 255, 0.1);
+            color: var(--secondary);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-family: 'Fira Code', monospace;
+            border: 1px solid rgba(0, 251, 255, 0.2);
+        }
+
+        /* Experience Layout */
+        .experience-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        .exp-list {
+            list-style: none;
+        }
+        .exp-list li {
+            position: relative;
+            padding-left: 2rem;
+            margin-bottom: 1.5rem;
+        }
+        .exp-list li::before {
+            content: '✦';
+            position: absolute;
+            left: 0;
+            color: var(--primary-glow);
+            font-size: 1.2rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 3rem 0;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            margin-top: 4rem;
+        }
+        footer a {
+            color: var(--secondary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        /* Scroll Reveal Animation Classes */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: all 0.8s cubic-bezier(0.5, 0, 0, 1);
+        }
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            h2 { font-size: 2rem; }
+            .container { padding: 2rem 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Background Orbs -->
+    <div class="ambient-light light-1"></div>
+    <div class="ambient-light light-2"></div>
+    <div class="ambient-light light-3"></div>
+
+    <div class="container">
+        
+        <!-- HERO SECTION -->
+        <section class="reveal">
+            <h1>Hi there, I'm <br><span class="gradient-text">TAMILARASAN S</span> 👋</h1>
+            <h3 class="subtitle">Web Developer | AI & ML Engineer</h3>
+            <p class="bio">
+                Highly motivated Computer Science Engineer specializing in developing responsive web applications, AI-driven automation, and complex data analytics. I bridge the gap between complex data sources and user-centric interfaces.
+            </p>
+
+            <div class="social-links">
+                <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank" class="glass-btn"><i class="fab fa-linkedin" style="color: #0077B5;"></i> LinkedIn</a>
+                <a href="mailto:tamilarasanss.dev@gmail.com" class="glass-btn"><i class="fas fa-envelope" style="color: #D14836;"></i> Email</a>
+                <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank" class="glass-btn"><i class="fas fa-code" style="color: #FFA116;"></i> LeetCode</a>
+                <a href="https://discord.gg/1288063770240876588" target="_blank" class="glass-btn"><i class="fab fa-discord" style="color: #7289DA;"></i> Discord</a>
+                <a href="https://reddit.com/user/parallel_Glitch/" target="_blank" class="glass-btn"><i class="fab fa-reddit" style="color: #FF4500;"></i> Reddit</a>
+            </div>
+        </section>
+
+        <!-- TOOLS & TECH SECTION -->
+        <section class="reveal">
+            <h2><i class="fas fa-wrench gradient-text"></i> Tools & Technologies</h2>
+            
+            <div class="glass-card" style="margin-bottom: 2rem;">
+                <h3>Core Programming & Web Development</h3>
+                <div class="tools-img-wrapper" style="margin-top: 1rem;">
+                    <a href="https://skillicons.dev" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=py,js,dart,cpp,html,css,react,tailwind,nodejs,django,fastapi,firebase,postgres,mongodb&theme=dark" alt="Web Dev Tools" />
+                    </a>
+                </div>
+                
+                <h3 style="margin-top: 1.5rem;">AI Frameworks, Hardware & DevOps</h3>
+                <div class="tools-img-wrapper" style="margin-top: 1rem; margin-bottom: 0;">
+                    <a href="https://skillicons.dev" target="_blank">
+                        <img src="https://skillicons.dev/icons?i=pytorch,opencv,arduino,git,github,vscode,postman,figma,wordpress,pypi&theme=dark" alt="AI Tools" />
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- ANALYTICS SECTION -->
+        <section class="reveal">
+            <h2><i class="fas fa-chart-line gradient-text"></i> Analytics & Metrics</h2>
+            
+            <div class="stats-grid">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=9900ff&line=9900ff&point=00fbff&area=true&hide_border=true" alt="GitHub Activity Graph" class="stat-img" style="width: 100%;" />
+                
+                <div class="stats-row">
+                    <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" class="stat-img" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=false&layout=compact" alt="Top Languages" class="stat-img" />
+                </div>
+                
+                <img src="https://nirzak-streak-stats.vercel.app/?user=tamilarasangithub&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats" class="stat-img" style="width: 100%; max-width: 800px;" />
+
+                <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+                    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" class="stat-img" style="max-width: 400px;" />
+                </a>
+            </div>
+        </section>
+
+        <!-- PROJECTS SECTION -->
+        <section class="reveal">
+            <h2><i class="fas fa-rocket gradient-text"></i> Featured Projects</h2>
+            
+            <div class="projects-grid">
+                <div class="glass-card">
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: #fff;">Smart Wildlife Intrusion Alert System</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem;">Real-time edge detection system for monitoring wildlife anomalies.</p>
+                    <div class="tags">
+                        <span>TinyML</span><span>ESP32-CAM</span><span>Python</span><span>OpenCV</span><span>YOLO</span>
+                    </div>
+                </div>
+
+                <div class="glass-card">
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: #fff;">AI Snake Identification System</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem;">Mobile application built to quickly analyze and identify specific species via camera input.</p>
+                    <div class="tags">
+                        <span>Flutter</span><span>FastAPI</span><span>Python</span>
+                    </div>
+                </div>
+
+                <div class="glass-card">
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: #fff;">Blockchain Portfolio Analytics</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem;">Enterprise chatbot providing instant valuations and real-time market data insights.</p>
+                    <div class="tags">
+                        <span>Zoho Cliq</span><span>GoldRush API</span><span>CoinGecko API</span>
+                    </div>
+                </div>
+
+                <div class="glass-card">
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: #fff;">Fitness Buddy (GymBuddy)</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem;">Full-stack performance optimization engine with personalized algorithmic feedback.</p>
+                    <div class="tags">
+                        <span>React</span><span>Node.js</span><span>AI Core</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- EXPERIENCE SECTION -->
+        <section class="reveal">
+            <h2><i class="fas fa-briefcase gradient-text"></i> Experience & Achievements</h2>
+            
+            <div class="experience-grid">
+                <div class="glass-card">
+                    <h3 style="margin-bottom: 1.5rem; color: var(--secondary);"><i class="fas fa-laptop-code"></i> Professional Experience</h3>
+                    <ul class="exp-list">
+                        <li>
+                            <strong>IBM SkillBuild Virtual Intern (AI/Cloud)</strong><br>
+                            <span style="color: var(--text-muted); font-size: 0.9rem;">Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.</span>
+                        </li>
+                        <li>
+                            <strong>TATA Forage Virtual Intern (Data Analytics)</strong><br>
+                            <span style="color: var(--text-muted); font-size: 0.9rem;">Conducted performance analysis and data visualization on GenAI business models.</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="glass-card">
+                    <h3 style="margin-bottom: 1.5rem; color: var(--primary-glow);"><i class="fas fa-certificate"></i> Certifications</h3>
+                    <ul class="exp-list">
+                        <li>🎓 <strong>Artificial Intelligence Professional</strong> — <em>Intellipaat</em></li>
+                        <li>🧠 <strong>Generative AI Foundations</strong> — <em>UpGrad</em></li>
+                        <li>🐍 <strong>Python (HCL & Google)</strong> — <em>GUVI</em></li>
+                        <li>☁️ <strong>Journey to Cloud</strong> — <em>IBM SkillsBuild</em></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>Made with ❤️ by <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">TAMILARASAN</a></p>
+        </footer>
+
     </div>
 
-    <!-- Project 2 -->
-    <div style="border: 1px solid #FF00FF; padding: 15px; border-radius: 8px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(255, 0, 255, 0.3);">
-      <h3 style="color: #00FBFF; display: flex; align-items: center;"><img src="https://skillicons.dev/icons?i=flutter" width="20"/>&nbsp;🐍 AI Snake Identification System</h3>
-      <p>Mobile application built to quickly analyze and identify specific species via camera input.</p>
-      <p><strong>Tech Stack:</strong> Flutter, FastAPI, Python</p>
-    </div>
+    <!-- Scroll Reveal JavaScript -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const reveals = document.querySelectorAll(".reveal");
 
-    <!-- Project 3 -->
-    <div style="border: 1px solid #FF00FF; padding: 15px; border-radius: 8px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(255, 0, 255, 0.3);">
-      <h3 style="color: #00FBFF; display: flex; align-items: center;"><img src="https://skillicons.dev/icons?i=nodejs" width="20"/>&nbsp;🔗 Blockchain Portfolio Analytics</h3>
-      <p>Enterprise chatbot providing instant valuations and real-time market data insights.</p>
-      <p><strong>Tech Stack:</strong> Zoho Cliq, GoldRush API, CoinGecko API</p>
-    </div>
+            const revealOnScroll = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add("active");
+                        // Optional: Stop observing once revealed
+                        // observer.unobserve(entry.target); 
+                    }
+                });
+            }, {
+                threshold: 0.1, // Trigger when 10% of element is visible
+                rootMargin: "0px 0px -50px 0px"
+            });
 
-    <!-- Project 4 -->
-    <div style="border: 1px solid #FF00FF; padding: 15px; border-radius: 8px; width: calc(50% - 20px); box-shadow: 0 0 5px rgba(255, 0, 255, 0.3);">
-      <h3 style="color: #00FBFF; display: flex; align-items: center;"><img src="https://skillicons.dev/icons?i=react" width="20"/>&nbsp;💪 Fitness Buddy (GymBuddy)</h3>
-      <p>Full-stack performance optimization engine with personalized algorithmic feedback.</p>
-      <p><strong>Tech Stack:</strong> React, Node.js, AI Core</p>
-    </div>
-
-  </div>
-</div>
-
-<br/>
-
-<!-- Experience and Achievements section as a modern timeline and list -->
-<div style="background-color: #161B22; padding: 15px; border-radius: 8px;">
-  <h2 style="color: #00FBFF; text-align: center;">💼 Experience & Achievements</h2>
-  
-  <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td width="50%" valign="top" style="padding-right: 10px; border-right: 1px solid #FF00FF;">
-        <h3 style="color: #FF00FF;">Professional Experience</h3>
-        <ul>
-          <li><b>IBM SkillBuild Virtual Intern (AI/Cloud)</b><br>Developed cloud-integrated AI apps using IBM Watson Assistant and NLP models.</li>
-          <li><b>TATA Forage Virtual Intern (Data Analytics)</b><br>Conducted performance analysis and data visualization on GenAI business models.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top" style="padding-left: 10px;">
-        <h3 style="color: #FF00FF;">Certifications</h3>
-        <ul>
-          <li>🎓 <b>Artificial Intelligence Professional</b> — <i>Intellipaat</i></li>
-          <li>🧠 <b>Generative AI Foundations</b> — <i>UpGrad</i></li>
-          <li>🐍 <b>Python (HCL & Google)</b> — <i>GUVI</i></li>
-          <li>☁️ <b>Journey to Cloud</b> — <i>IBM SkillsBuild</i></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- Footer Section - Re-designed minimalist animated text -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&center=true&width=100%25&lines=Made+with+❤️+by+TAMILARASAN" alt="Footer Typing SVG"/>
-</div>
-
-</div>
+            reveals.forEach(reveal => {
+                revealOnScroll.observe(reveal);
+            });
+            
+            // Trigger immediately for elements already in view on load
+            setTimeout(() => {
+                reveals.forEach(reveal => {
+                    const rect = reveal.getBoundingClientRect();
+                    if(rect.top < window.innerHeight) {
+                        reveal.classList.add("active");
+                    }
+                });
+            }, 100);
+        });
+    </script>
+</body>
+</html>
