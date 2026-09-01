@@ -89,11 +89,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 <br />
 
-[![Tamilarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilarasangithub&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/tamilarasangithub)
-
-<br />
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tamilarasangithub)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 <br />
 <br />
