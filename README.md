@@ -6,16 +6,18 @@
 <br />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Hacking Header GIF" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=Offensive+Security+Specialist;Red+Team+Operations;AI-Driven+Threat+Intelligence" alt="Typing Header GIF" />
 
 <br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=50&lines=Offensive+Security+Specialist;Red+Team+Operations;AI-Driven+Threat+Intelligence" alt="Typing Header GIF" />
+
 <br />
 
 <p align="center">
   <a href="https://tryhackme.com/p/mrcyberwolf" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-100000?style=for-the-badge&logo=tryhackme&logoColor=8A2BE2" alt="TryHackMe" />
   </a>
-  <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">
+  <a href="https://www.linkedin.com/in/tamilarasan-offsec/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
   </a>
   <a href="mailto:tamilarasanss.dev@gmail.com" target="_blank">
@@ -32,7 +34,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Vaporwave-Line.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
 
 </div>
 
@@ -56,20 +58,16 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 ### Security & AI Projects
 
-- **VenomX AI Identification System**  
-  `Flutter` • `FastAPI` • `Python` • `OpenCV`  
+- **VenomX AI Identification System** `Flutter` • `FastAPI` • `Python` • `OpenCV`  
   Mobile security application engineered with a multi-class neural network architecture to quickly classify species via live camera input.
 
-- **Smart Wildlife Intrusion Alert System**  
-  `TinyML` • `ESP32-CAM` • `OpenCV` • `YOLO`  
+- **Smart Wildlife Intrusion Alert System** `TinyML` • `ESP32-CAM` • `OpenCV` • `YOLO`  
   Real-time edge detection system built for monitoring anomalous perimeter intrusions and automated anomaly alerts.
 
-- **Blockchain Portfolio Analytics**  
-  `Zoho Cliq` • `GoldRush API` • `CoinGecko API`  
+- **Blockchain Portfolio Analytics** `Zoho Cliq` • `GoldRush API` • `CoinGecko API`  
   Enterprise engine delivering real-time crypto portfolio valuations and security insights.
 
-- **Fitness Buddy Core Engine**  
-  `React` • `Node.js` • `AI Core`  
+- **Fitness Buddy Core Engine** `React` • `Node.js` • `AI Core`  
   Full-stack web platform built with personalized feedback algorithms and high-performance processing.
 
 <br />
@@ -86,13 +84,13 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Vaporwave-Line.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasangithub&theme=purple-dark&hide_border=true" width="48%" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 
 <br />
 <br />
