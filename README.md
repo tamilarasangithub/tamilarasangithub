@@ -88,16 +88,17 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 <br />
 
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats Graph" />
-</a>
-
-<br />
-<br />
-
-<!-- Alternative GitHub Stats (Optional: uncomment if you want reliable GitHub stats back) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&show_icons=true&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Stats" /> -->
+<p align="center">
+  <!-- LeetCode Stats Card (Reduced Size) -->
+  <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Fira%20Code&ext=activity" width="48%" alt="LeetCode Stats" />
+  </a>
+  &nbsp;
+  <!-- GitHub Stats Card (Reduced Size) -->
+  <a href="https://github.com/tamilarasangithub" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  </a>
+</p>
 
 <br />
 <br />
