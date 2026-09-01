@@ -9,7 +9,7 @@
   <a href="https://tryhackme.com/p/mrcyberwolf" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-100000?style=for-the-badge&logo=tryhackme&logoColor=8A2BE2" alt="TryHackMe" />
   </a>
-  <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">
+  <a href="https://www.linkedin.com/in/tamilarasan-offsec/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
   </a>
   <a href="mailto:tamilarasanss.dev@gmail.com" target="_blank">
@@ -32,10 +32,18 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 <br />
 
-### Core Hacking & Technical Toolkit
+### Core Hacking & Security Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,py,bash,cpp,powershell,docker,postman,git,github,vscode,c&theme=dark" alt="Hacking & Security Toolkit" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,py,bash,cpp,powershell,docker,postman,git,github,vscode,c,ubuntu,debian,network,fastapi,pytorch,mongodb&theme=dark" alt="Hacking & Security Toolkit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-1A2B4C?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory" />
 </p>
 
 <br />
@@ -43,7 +51,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 ### Security & AI Projects
 
 - **VenomX AI Identification System**  
-  `Flutter` • `FastAPI` • `Python` • `OpenCV`  
+  `web` • `FastAPI` • `Python` • `OpenCV`  
   Mobile security application engineered with a multi-class neural network architecture to quickly classify species via live camera input.
 
 - **Smart Wildlife Intrusion Alert System**  
@@ -62,7 +70,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 ### Credentials & Experience
 
-* **Certified Penetration Tester**
+* **Certified Penetration Tester** 
 * **Artificial Intelligence Professional** — *Intellipaat*
 * **Generative AI Foundations** — *UpGrad*
 * **IBM SkillsBuild Virtual Intern** — *AI & Cloud Security*
@@ -72,8 +80,8 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasangithub&theme=purple-dark&hide_border=true" width="48%" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 
 <br />
 <br />
