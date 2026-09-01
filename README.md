@@ -89,9 +89,9 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 
 <p align="center">
-  <!-- LeetCode Stats Card -->
+  <!-- LeetCode Stats Card (Activity section removed for perfect alignment) -->
   <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Fira%20Code&ext=activity" width="48%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Fira%20Code" width="48%" alt="LeetCode Stats" />
   </a>
   &nbsp;
   <!-- Stable GitHub Streak Stats Card -->
@@ -103,6 +103,14 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284105-7ba6549f-d269-4d62-850d-83b58ec0e7e7.gif" width="100%" alt="Cyber Footer GIF" />
+<!-- Pac-Man Line GIF -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Pacman.gif" width="100%" alt="Pacman Footer GIF" />
+
+<br />
+<br />
+
+<p align="center">
+  <b>Made with ❤️ by Tamilarasan</b>
+</p>
 
 </div>
