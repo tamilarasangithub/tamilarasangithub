@@ -81,7 +81,6 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 * **TATA Forage Virtual Intern** — *Data Analytics*
 
 <br />
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Vaporwave-Line.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
@@ -89,7 +88,16 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilarasangithub&bg_color=0d0d0d&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats Graph" />
+</a>
+
+<br />
+<br />
+
+<!-- Alternative GitHub Stats (Optional: uncomment if you want reliable GitHub stats back) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&show_icons=true&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Stats" /> -->
 
 <br />
 <br />
