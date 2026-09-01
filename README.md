@@ -5,6 +5,11 @@
 
 <br />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Hacking Header GIF" />
+
+<br />
+<br />
+
 <p align="center">
   <a href="https://tryhackme.com/p/mrcyberwolf" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-100000?style=for-the-badge&logo=tryhackme&logoColor=8A2BE2" alt="TryHackMe" />
@@ -26,7 +31,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header&reversal=false" width="100%" alt="Header Graphic" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
 
 </div>
 
@@ -80,12 +85,17 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Cyber Dividing Line GIF" />
+
+<br />
+<br />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilarasangithub&theme=purple-dark&hide_border=true" width="48%" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats" />
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%" alt="Footer Graphic" />
+<img src="https://user-images.githubusercontent.com/74038190/212284105-7ba6549f-d269-4d62-850d-83b58ec0e7e7.gif" width="100%" alt="Cyber Footer GIF" />
 
 </div>
