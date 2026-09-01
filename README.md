@@ -58,7 +58,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 ### Security & AI Projects
 
-- **VenomX AI Identification System** `nodejs` • `FastAPI` • `Python` • `OpenCV`  
+- **VenomX AI Identification System** `flask` • `FastAPI` • `Python` • `OpenCV`  
   Mobile security application engineered with a multi-class neural network architecture to quickly classify species via live camera input.
 
 - **Smart Wildlife Intrusion Alert System** `TinyML` • `ESP32-CAM` • `OpenCV` • `YOLO`  
