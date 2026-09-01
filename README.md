@@ -89,14 +89,14 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 
 <p align="center">
-  <!-- LeetCode Stats Card (Reduced Size) -->
+  <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/u/tamilarasangithub/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/tamilarasangithub?theme=dark&font=Fira%20Code&ext=activity" width="48%" alt="LeetCode Stats" />
   </a>
   &nbsp;
-  <!-- GitHub Stats Card (Reduced Size) -->
+  <!-- Stable GitHub Streak Stats Card -->
   <a href="https://github.com/tamilarasangithub" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=tamilarasangithub&theme=dark&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak Stats" />
   </a>
 </p>
 
