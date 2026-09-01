@@ -58,7 +58,7 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 
 ### Security & AI Projects
 
-- **VenomX AI Identification System** `Flutter` • `FastAPI` • `Python` • `OpenCV`  
+- **VenomX AI Identification System** `nodejs` • `FastAPI` • `Python` • `OpenCV`  
   Mobile security application engineered with a multi-class neural network architecture to quickly classify species via live camera input.
 
 - **Smart Wildlife Intrusion Alert System** `TinyML` • `ESP32-CAM` • `OpenCV` • `YOLO`  
@@ -89,10 +89,13 @@ Computer Science Engineer specializing in Penetration Testing, Red Teaming Opera
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=true&show_icons=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasangithub&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
-<br />
 <br />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284105-7ba6549f-d269-4d62-850d-83b58ec0e7e7.gif" width="100%" alt="Cyber Footer GIF" />
