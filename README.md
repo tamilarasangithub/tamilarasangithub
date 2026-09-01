@@ -1,70 +1,65 @@
-# # Hi there, I'm TAMILARASAN S 👋
-### Offensive Security Professional | OSCP Certified
+<div align="center">
 
-> Highly motivated Computer Science Engineer specializing in advanced penetration testing, red teaming operations, and AI-powered vulnerability analysis. I focus on proactively identifying and mitigating sophisticated security threats.
+# TAMILARASAN S
+### 🛡️ Penetration Tester | AI Security Researcher
 
----
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-MRCYBERWOLF-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mrcyberwolf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamilarasansdeveloper/)
+[![Email](https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamilarasanss.dev@gmail.com)
 
-## 🌐 Connect With Me & Verify My Skills
-
-<p align="left">
-  <a href="https://tryhackme.com/p/mrcyberwolf" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-MRCYBERWOLF-%237F00FF.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
-  </a>
-  <a href="https://linkedin.com/in/tamilarasansdeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%237F00FF.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tamilarasanss.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%237F00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+  <i>Computer Science Engineer specializing in Penetration Testing, Red Teaming, and AI-driven Threat Intelligence. Focused on identifying critical vulnerabilities before malicious actors exploit them.</i>
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies (Offensive Focus)
+</div>
 
-### **Core Security Toolkit & Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,py,cpp,bash,js,html,css,git,github,vscode&theme=dark" alt="Security Tools and Languages" />
-  </a>
-</p>
-
----
-
-## 📊 Performance Analytics
+### ⚡ Core Skills & Toolkit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=kali,py,cpp,bash,html,css,js,git,github,vscode&theme=dark" alt="Security Toolkit" />
 </p>
 
+<br />
+
+### 🎯 Featured Security Projects
+
+- **Smart Wildlife Intrusion Alert System**  
+  `TinyML` • `ESP32-CAM` • `OpenCV` • `YOLO`  
+  Real-time edge detection system engineered for monitoring wildlife anomalies and perimeter breaches.
+
+- **AI Snake Identification System**  
+  `Flutter` • `FastAPI` • `Python`  
+  Mobile security application built to quickly analyze visual markers and classify species via live camera input.
+
+- **Blockchain Portfolio Analytics**  
+  `Zoho Cliq` • `GoldRush API` • `CoinGecko API`  
+  Enterprise chatbot engine providing automated crypto portfolio valuations and real-time market data insights.
+
+- **Fitness Buddy (GymBuddy)**  
+  `React` • `Node.js` • `AI Core`  
+  Full-stack performance engine utilizing personalized algorithmic feedback for optimization.
+
+<br />
+
+### 🏆 Credentials & Experience
+
+* 🛡️ **Certified Penetration Tester**
+* 🎓 **Artificial Intelligence Professional** — *Intellipaat*
+* 🧠 **Generative AI Foundations** — *UpGrad*
+* 💻 **IBM SkillsBuild Virtual Intern** — *AI & Cloud Security*
+* 📊 **TATA Forage Virtual Intern** — *Data Analytics*
+
 ---
 
-## 🚀 Featured OffSec Projects
+<div align="center">
 
-| Project Name | Description | Stack/Focus |
-| :--- | :--- | :--- |
-| **Vulnerability Assessment Lab** | Custom-built environment simulating enterprise network vulnerabilities for safe penetration testing. | Kali, Metasploit, Nmap, Active Directory |
-| **Active Directory Security Audit** | Comprehensive auditing and exploitation of Active Directory misconfigurations. | PowerShell, Kerberoasting, BloodHound |
-| **Bug Bounty Automation Script** | Developed Python tools to automate sub-domain enumeration and directory bursting. | Python, Burp Suite, APIs |
-| **AI-Powered Malware Analysis** | Utilizing machine learning models to identify zero-day polymorphic malware signatures. | Python, PyTorch, C++ |
+<img src="https://github-readme-stats.vercel.app/api?username=tamilarasangithub&theme=midnight-purple&hide_border=true&show_icons=true" height="160px" alt="GitHub Stats" />
 
----
+<br />
+<br />
 
-## 🏆 Certifications & Experience
+<p>Made with 💜 by <b>TAMILARASAN S</b></p>
 
-### **Active Certifications**
-* 🎓 **OffSec Certified Professional (OSCP)**
-* 🧠 **OffSec Certified Red Team Expert (OSCE - In Progress)**
-
-### **Relevant Experience**
-* **IBM SkillBuild Virtual Intern (AI/Cloud Security)**
-  * Focused on cloud-integrated AI app security assessments.
-* **TATA Forage Virtual Intern (Data Analytics)**
-  * Focused on performance visualization of cybersecurity operational data.
-
----
-
-<p align="center">
-  Securely Made with ❤️ by <a href="https://tryhackme.com/p/mrcyberwolf">TAMILARASAN</a>
-</p>
+</div>
